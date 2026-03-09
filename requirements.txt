@@ -1,0 +1,10 @@
+fastapi>=0.100.0
+uvicorn>=0.23.0
+websockets>=11.0.3
+sqlalchemy>=2.0.0
+langchain-core>=0.1.0
+langchain-google-genai>=0.0.9
+langgraph>=0.0.15
+langgraph-checkpoint-sqlite>=1.0.0
+langchain-chroma>=0.1.0
+python-dotenv>=1.0.0
